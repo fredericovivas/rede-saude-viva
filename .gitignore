@@ -1,0 +1,27 @@
+# Credenciais / configuração local
+**/includes/db.php
+.env
+*.env
+
+# Scripts temporários e logs
+gerar_*.php
+*.log
+*.tmp
+
+# Dumps de BD: só os ficheiros sem dados reais são versionados
+*.sql
+!BaseDados/schema.sql
+!BaseDados/seed_demo.sql
+
+# Documentos, arquivos e imagens do relatório
+*.zip
+*.pdf
+*.docx
+*.pptx
+screenshots/
+
+# Editor / sistema
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
