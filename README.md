@@ -22,3 +22,6 @@ XAMPP (PHP 8+ e MariaDB/MySQL).
 - joao.silva@saudeviva.pt e ana.costa@saudeviva.pt (médicos)
 - maria@saudeviva.pt (utente)
 - carla@saudeviva.pt (rececionista)
+
+## Licença
+MIT. Ver o ficheiro LICENSE.
