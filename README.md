@@ -5,7 +5,7 @@ para gestão de consultas e histórico clínico, em PHP + MySQL.
 
 ## Porquê este projeto
 
-Este projeto nasceu na unidade curricular de Análise e Modelação de Software, como trabalho de grupo. O objetivo da UC **não era a tecnologia em si**, mas aplicar o ciclo completo de engenharia de software: levantar requisitos, modelá-los em UML e gerir o desenvolvimento com Scrum.
+Este projeto nasceu na unidade curricular de Análise e Modelação de Software. O objetivo da UC **não era a tecnologia em si**, mas aplicar o ciclo completo de engenharia de software: levantar requisitos, modelá-los em UML e gerir o desenvolvimento com Scrum.
 
 O que o trabalho tinha de demonstrar, e que ficou documentado no relatório entregue:
 
